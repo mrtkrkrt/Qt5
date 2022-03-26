@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/PositioningAndLayout2_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/PositioningAndLayout2",
+	"CMAKE_SOURCE_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/PositioningAndLayout2",
+	"INCLUDE_DIR" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/PositioningAndLayout2_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/mrtkr/Desktop/QT/QML/PositioningAndLayout2/main.qml",
+		"C:/Users/mrtkr/Desktop/QT/QML/PositioningAndLayout2/MyShape.qml"
+	],
+	"LOCK_FILE" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/PositioningAndLayout2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/PositioningAndLayout2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/mrtkr/Desktop/QT/QML/PositioningAndLayout2/qml.qrc",
+	"VERBOSITY" : 0
+}

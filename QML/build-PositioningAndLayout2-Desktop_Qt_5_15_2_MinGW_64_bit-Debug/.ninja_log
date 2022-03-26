@@ -1,0 +1,11 @@
+# ninja log v5
+1	155	6677797530634609	PositioningAndLayout2_autogen/timestamp	ce126e47cf494184
+1	155	6677797530634609	PositioningAndLayout2_autogen/mocs_compilation.cpp	ce126e47cf494184
+1	155	6677797530634609	C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/PositioningAndLayout2_autogen/timestamp	ce126e47cf494184
+1	155	6677797530634609	C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/PositioningAndLayout2_autogen/mocs_compilation.cpp	ce126e47cf494184
+155	211	6677797531607430	PositioningAndLayout2_autogen/EWIEGA46WW/qrc_qml.cpp	f5275672f6d45682
+155	211	6677797531607430	C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/PositioningAndLayout2_autogen/EWIEGA46WW/qrc_qml.cpp	f5275672f6d45682
+212	267	6677797532190649	CMakeFiles/PositioningAndLayout2.dir/PositioningAndLayout2_autogen/mocs_compilation.cpp.obj	343f979044594aa2
+219	279	6677797532310326	CMakeFiles/PositioningAndLayout2.dir/PositioningAndLayout2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d8249d35afa8096
+222	1305	6677797542578136	CMakeFiles/PositioningAndLayout2.dir/main.cpp.obj	ec854c80cb6f94c6
+1308	1443	6677797543896809	PositioningAndLayout2.exe	c00d8bc655e5905

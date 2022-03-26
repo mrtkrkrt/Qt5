@@ -1,0 +1,5 @@
+C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/PositioningAndLayout2.dir
+C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/PositioningAndLayout2_autogen_timestamp_deps.dir
+C:/Users/mrtkr/Desktop/QT/QML/build-PositioningAndLayout2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/PositioningAndLayout2_autogen.dir
